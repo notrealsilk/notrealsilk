@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 💬 Skill
+## 💬 Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -47,3 +47,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=notrealsilk&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
+
+## Project
+
+- 초보자를 위한 예적금 서비스 "StarPot"
+  
+https://github.com/hyunheeya/final_pjt
+
+<img width="656" alt="스크린샷 2024-12-29 오후 10 06 15" src="https://github.com/user-attachments/assets/1d8a1ce9-9235-4ea1-a4a9-12866d14ee10" />
+
