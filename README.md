@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notrealsilk&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
