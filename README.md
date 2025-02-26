@@ -3,6 +3,8 @@
 
 꾸준히 잔디🌱심기
 
+</br>
+
 ------------------------------------------
 
 
@@ -49,9 +51,14 @@ Here are some ideas to get you started:
 
 ## Project
 
-- 초보자를 위한 예적금 서비스 "StarPot"
+### 초보자를 위한 예적금 서비스 "StarPot"
   
-https://github.com/hyunheeya/final_pjt
+[![Image](https://github.com/user-attachments/assets/6e0dffd1-8205-499d-b15e-aa89906dbe70)](https://github.com/hyunheeya/final_pjt)
 
-<img width="656" alt="스크린샷 2024-12-29 오후 10 06 15" src="https://github.com/user-attachments/assets/1d8a1ce9-9235-4ea1-a4a9-12866d14ee10" />
+</br>
+
+### 실시간 회의 요약 및 시각화 서비스 "Confy"
+
+  [![Image](https://github.com/user-attachments/assets/ddba92c1-9981-4d14-866e-63b1f44b6361)](https://github.com/Setto1044/Confy)
+
 
