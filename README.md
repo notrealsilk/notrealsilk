@@ -48,11 +48,14 @@
 
 ## 🏆 Projects  
 
-### ✨ 초보자를 위한 예적금 서비스 **"StarPot"**  
+### ✨ 초보자를 위한 예적금 서비스 **StarPot**  
 [![StarPot](https://github.com/user-attachments/assets/6e0dffd1-8205-499d-b15e-aa89906dbe70)](https://github.com/hyunheeya/final_pjt)  
 
-### ✨ 실시간 회의 요약 및 시각화 서비스 **"Confy"**  
+### ✨ 실시간 회의 요약 및 시각화 서비스 **Confy**  
 [![Confy](https://github.com/user-attachments/assets/ddba92c1-9981-4d14-866e-63b1f44b6361)](https://github.com/Setto1044/Confy)  
 
-### ✨ 취향으로 채우는 나만의 팔레트, PaletteMe
+### ✨ 취향으로 채우는 나만의 팔레트, **PaletteMe**
 [![PaletteMe](https://github.com/user-attachments/assets/e674836a-c7b4-4582-8067-1a7730f80f5c)](https://github.com/yooniqlo-kim/PaletteMe) 
+
+### ✨ 내 손 안의 AI 발표코치 애플리케이션, **Spico**
+[![Spico](https://github.com/user-attachments/assets/33e23626-fe5b-4a7f-a400-1444bd7345ba)](https://github.com/YoungdanNoh/Spico) 
