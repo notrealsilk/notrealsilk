@@ -34,10 +34,17 @@
 
 ## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notrealsilk&layout=compact&theme=transparent&bg_color=DDEEFF&title_color=00008B&text_color=00008B)](https://github.com/notrealsilk)  
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notrealsilk&theme=react-dark&bg_color=DDEEFF&hide_border=true&line=00008B&color=00008B)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
+---
+
+🏅 Certifications
+<div align="center"> <img width="180" alt="AWS Certified Solutions Architect Associate" src="https://github.com/user-attachments/assets/3d3152e8-31ad-4fec-b208-228e8196bbd3" />
+
+AWS Certified Solutions Architect – Associate (SAA-C03)
+Amazon Web Services
+
+</div>
 
 ---
 
